@@ -6,3 +6,5 @@ Right now, the ideas are being sketched out in the meta repo.
 
 If you would like to join the project, get in touch!
 
+[test](./test.md)
+
