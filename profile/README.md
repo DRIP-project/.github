@@ -19,7 +19,7 @@ Normally, researchers do these steps organically, and keep track of them in thei
 
 Among other things, we advocate doing research for the inherent joy and the sense of meaning it brings. But we also believe that receiving credit for ones work is important. We therefore need to do this work on a platform that will keep a time-stamped record of everyone's contributions, from proposing a seed of an idea to editing the last draft of a paper. 
 
-What we're proposing is already common practice in the world of open source software development. There, GitHub (and similar platforms) are used to do collaborative software development. While GitHub is not desined for our purposes, we believe it is currently the best option we have, so we will take it. 
+What we're proposing is already common practice in the world of open source software development. There, GitHub (and similar platforms) are used to do collaborative software development. While GitHub is not designed for our purposes, we believe it is currently the best option we have, so we will take it. 
 
 The idea of GitHub for science/academic research has been proposed before (see e.g. [vonMuhlen2011](https://marciovm.com/i-want-a-github-of-science.html) and [Banks2017](https://slate.com/technology/2017/04/we-need-a-github-for-academic-research.html)) but there the focus was on the value of sharing the output of scientifc research in an open way. Our focus is on the _process_ of collaboration that is enabled by GitHub and collaborative software development best practices. This is what we want to adapt to scientific research. 
 
