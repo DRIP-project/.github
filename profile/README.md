@@ -25,9 +25,9 @@ The idea of GitHub for science/academic research has been proposed before (see e
 
 Want to know more?
 
-You can start by perusing the [wiki](https://github.com/DRiP-project/meta/wiki) and the [discussions forum](https://github.com/DRiP-project/meta/discussions). 
+You can start by perusing the [wiki](https://github.com/DRiP-project/meta/wiki) and the [discussion forum](https://github.com/DRiP-project/meta/discussions). 
 
-If you're interested in helping develop DRiP, check out the [meta project board](https://github.com/DRiP-project/meta) to see which tasks are available and could use your help. 
+If you're interested in helping develop DRiP, check out the [meta project board]([https://github.com/DRiP-project/meta](https://github.com/orgs/DRiP-project/projects/2)) to see which tasks are available and could use your help. 
 
 If you want to know more about using DRiP to do research, take a peak at the [research project board](https://github.com/orgs/DRIP-project/projects/1), but keep in mind that the framework is still in its early stages of being developed, so it's not usable yet...please sit tight!
 
