@@ -1,11 +1,34 @@
 ## DRiP: Doing Research in Public
 
-We have been toying with ideas about writing papers the way open-source code is written. Take a look at [this post](https://www.linkedin.com/posts/agata-branczyk_research-opensource-openscience-activity-6843530675270877184-L1un/), especially the discussion in the comments for some good background into these discussions. 
+We believe that there is untapped potential in the gap between professional science and citizen science (for fun, we're calling this space _densizen science_). To tap into this potential, we need a mechanism for effective collaboration between professional scientists, ex-scientists, independent researchers, up-and-coming talent without access to mentorship, (and others...)---that does not rely on pre-established scientific networks---where each person can contribute according to their skills, interests, and availability. 
+
+The mechanism we have in mind is a framework which we call _DRiP_ (Doing Research in Public). 
+
+How does it work?
+
+To begin with, the research process has to be made modular. We break it down into:
+- Having a seed of an idea
+- Fleshing out that idea into a well-formed scientific problem
+- Doing a literature review (which itself can be broken down into pieces)
+- Identifying the different pieces of the research itself (a proof here, a creative step there, etc)
+- Doing each of the pieces of the research
+- The many sequential steps of writing the paper
+- And more...
+
+Normally, researchers do these steps organically, and keep track of them in their heads, or in their personal notes, or in notes shared with a few select collaborators. We aim to perform each step in public, so that different steps can be done by different people at their leisure, and anyone can join the project at any time. For this to work, we must commit to documenting our process clearly and work within an explictly defined shared praxis. 
+
+Among other things, we advocate doing research for the inherent joy and the sense of meaning it brings. But we also believe that receiving credit for ones work is important. We therefore need to do this work on a platform that will keep a time-stamped record of everyone's contributions, from proposing a seed of an idea to editing the last draft of a paper. 
+
+What we're proposing is already common practice in the world of open source software development. There, GitHub (and similar platforms) are used to do collaborative software development. While GitHub is not desined for our purposes, we believe it is currently the best option we have, so we will take it. 
 
 The idea of GitHub for science/academic research has been proposed before (see e.g. [vonMuhlen2011](https://marciovm.com/i-want-a-github-of-science.html) and [Banks2017](https://slate.com/technology/2017/04/we-need-a-github-for-academic-research.html)) but there the focus was on the value of sharing the output of scientifc research in an open way. Our focus is on the _process_ of collaboration that is enabled by GitHub and collaborative software development best practices. This is what we want to adapt to scientific research. 
 
-To some extent, this can be thought of as applying agile methodologies to the research process. But since research is already super agile, the methodologies would work in the reverse direction, making research more structured (necessary for this kind of collaboration). Some early thoughts on this can be found [in this post](https://www.linkedin.com/posts/agata-branczyk_quantumcomputing-agile-scrum-activity-6745019811497070593-cDp5). 
+Want to know more?
 
-Why do we want to do this? We believe that there is untapped potential in the gap between professional science and citizen science---we refer to this gap as _densizen science_. To tap into this potential, we need a framework that allows professional scientists, ex-scientists, independent researchers, up-and-coming talent without access to mentorship, (and others...), a framework for effective scientific collaboration, that does not rely on pre-established scientific networks, where each person can contribute according to their abilities. This is what is enabled by the _process_ of collaborative software development, as practiced in the open source software community. 
+You can start by perusing the [wiki](https://github.com/DRiP-project/meta/wiki) and the [discussions forum](https://github.com/DRiP-project/meta/discussions). 
+
+If you're interested in helping develop DRiP, check out the [meta project board](https://github.com/DRiP-project/meta) to see which tasks are available and could use your help. 
+
+If you want to know more about using DRiP to do research, take a peak at the [research project board](https://github.com/orgs/DRIP-project/projects/1), but keep in mind that the framework is still in its early stages of being developed, so it's not usable yet...please sit tight!
 
 If you would like to join this effort, get in touch!
