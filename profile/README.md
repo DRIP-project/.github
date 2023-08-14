@@ -1,6 +1,10 @@
 ## DRiP: Doing Research in Public
 
-We believe that there is untapped potential in the gap between professional science and citizen science (for fun, we're calling this space _denizen science_). To tap into this potential, we need a mechanism for effective collaboration between professional scientists, ex-scientists, independent researchers, up-and-coming talent without access to mentorship, (and others...)---that does not rely on pre-established scientific networks---where each person can contribute according to their skills, interests, and availability. 
+Do you have to be employed as a professional scientist to do real, high-quality, theoretical science research? We don't think so. 
+
+We believe that there is untapped potential in the gap between professional science and [citizen science](https://en.wikipedia.org/wiki/Citizen_science). We've named this space _denizen science_. Denizen scientists have the skills of professional scientists, but prefer to do science for reasons other than it being part of their job. They include ex-academics and independent researchers. They also include up-and-coming scientists who have the technical background to do research but might not have access to the mentorship they need.
+
+To tap into this potential, we need a mechanism for effective collaboration between scientists that does not rely on pre-established collaboration networks, where each person can contribute according to their skills, interests, and availability.
 
 The mechanism we have in mind is a framework which we call _DRiP_ (Doing Research in Public). 
 
