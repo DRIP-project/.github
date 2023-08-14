@@ -2,7 +2,7 @@
 
 Do you have to hold down a job as a professional scientist to do real, high-quality, theoretical science research? We don't think so. 
 
-We believe that there's untapped potential in the gap between professional science and [citizen science](https://en.wikipedia.org/wiki/Citizen_science). We've named this space _denizen science_. Denizen scientists have the skills of professional scientists, but they do science outside of their day job. They include ex-academics and independent researchers, professional scientists with side projects that are out-of-scope of their grants, and up-and-coming scientists who have the technical background to do scientific research but might not have access to the mentorship they need.
+We believe that there's untapped potential in the gap between professional science and [citizen science](https://en.wikipedia.org/wiki/Citizen_science). We've named this space _denizen science_. Denizen scientists have the skills of professional scientists, but they do science research _outside_ of their day job. Denizen scientists include ex-academics, independent researchers, professional scientists with research interests outisde of the scope of their grants or day jobs, and up-and-coming scientists who have the technical background to do scientific research but who might not have access to the mentorship they need.
 
 To tap into this potential, we need a mechanism for effective collaboration between scientists that does not rely on pre-established collaboration networks, where each person can contribute according to their skills, interests, and availability. The mechanism we have in mind is a framework which we call _DRiP_ (Doing Research in Public). 
 
