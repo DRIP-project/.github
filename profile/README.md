@@ -1,12 +1,10 @@
 ## DRiP: Doing Research in Public
 
-Do you have to be employed as a professional scientist to do real, high-quality, theoretical science research? We don't think so. 
+Do you have to be holding down a job as a professional scientist to do real, high-quality, theoretical science research? We don't think so. 
 
-We believe that there is untapped potential in the gap between professional science and [citizen science](https://en.wikipedia.org/wiki/Citizen_science). We've named this space _denizen science_. Denizen scientists have the skills of professional scientists, but prefer to do science for reasons other than it being part of their job. They include ex-academics and independent researchers. They also include up-and-coming scientists who have the technical background to do research but might not have access to the mentorship they need.
+We believe that there's untapped potential in the gap between professional science and [citizen science](https://en.wikipedia.org/wiki/Citizen_science). We've named this space _denizen science_. Denizen scientists have the skills of professional scientists, but do science for reasons other than it being part of their job. They include ex-academics and independent researchers, professional scientists with side projects that are out-of-scope of their grants, and up-and-coming scientists who have the technical background to do scientific research but might not have access to the mentorship they need.
 
-To tap into this potential, we need a mechanism for effective collaboration between scientists that does not rely on pre-established collaboration networks, where each person can contribute according to their skills, interests, and availability.
-
-The mechanism we have in mind is a framework which we call _DRiP_ (Doing Research in Public). 
+To tap into this potential, we need a mechanism for effective collaboration between scientists that does not rely on pre-established collaboration networks, where each person can contribute according to their skills, interests, and availability. The mechanism we have in mind is a framework which we call _DRiP_ (Doing Research in Public). 
 
 How does it work?
 
@@ -19,11 +17,11 @@ To begin with, the research process has to be made modular. We break it down int
 - The many sequential steps of writing the paper
 - And more...
 
-Normally, researchers do these steps organically, and keep track of them in their heads, or in their personal notes, or in notes shared with a few select collaborators. We aim to perform each step in public, so that different steps can be done by different people at their leisure, and anyone can join the project at any time. For this to work, we must commit to documenting our process clearly and work within an explictly defined shared praxis. 
+Normally, researchers do these steps organically, and keep track of them in their heads, or in their personal notes, or in notes shared with a few select collaborators. But within the DRiP framework, each of these steps is done in public, so that different steps can be done by different people at their leisure, and anyone can join the project at any time. For this to work, we must commit to documenting our process clearly and work within an explictly defined shared praxis. 
 
 Among other things, we advocate doing research for the inherent joy and the sense of meaning it brings. But we also believe that receiving credit for ones work is important. We therefore need to do this work on a platform that will keep a time-stamped record of everyone's contributions, from proposing a seed of an idea to editing the last draft of a paper. 
 
-What we're proposing is already common practice in the world of open source software development. There, GitHub (and similar platforms) are used to do collaborative software development. While GitHub is not designed for our purposes, we believe it is currently the best option we have, so we will take it. 
+What we're proposing is already common practice in the world of open source software development. There, GitHub (and similar platforms) are used to do collaborative software development. While GitHub is not designed for our purposes, we believe it is currently the best option we have, so we'll take it. 
 
 The idea of GitHub for science/academic research has been proposed before (see e.g. [vonMuhlen2011](https://marciovm.com/i-want-a-github-of-science.html) and [Banks2017](https://slate.com/technology/2017/04/we-need-a-github-for-academic-research.html)) but there the focus was on the value of sharing the output of scientifc research in an open way. Our focus is on the _process_ of collaboration that is enabled by GitHub and collaborative software development best practices. This is what we want to adapt to scientific research. 
 
