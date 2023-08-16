@@ -17,7 +17,7 @@ To begin with, the research process has to be made modular. We break it down int
 - The many sequential steps of writing the paper
 - And more...
 
-Normally, researchers do these steps organically, and keep track of them in their heads, or in their personal notes, or in notes shared with a few select collaborators. But within the DRiP framework, each of these steps is done in public, so that different steps can be done by different people at their leisure, and anyone can join the project at any time. For this to work, we must commit to documenting our process clearly and work within an explictly defined shared praxis. 
+Normally, researchers do these steps organically, and keep track of them in their heads, or in their personal notes, or in notes shared with a few select collaborators. But within the DRiP framework, each of these steps is done in public, so that different steps can be done by different people at their leisure, and anyone can join the project at any time. For this to work, we must commit to documenting our process clearly and work within an explictly defined [shared praxis](https://github.com/DRiP-project/meta/wiki/Glossary-of-terms#shared-praxis). 
 
 Among other things, we advocate doing research for the inherent joy and the sense of meaning it brings. But we also believe that receiving credit for ones work is important. We therefore need to do this work on a platform that will keep a time-stamped record of everyone's contributions, from proposing a seed of an idea to editing the last draft of a paper. 
 
